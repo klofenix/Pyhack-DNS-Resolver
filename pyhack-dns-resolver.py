@@ -4,11 +4,11 @@ def main():
     try:
       objetivo = dns.resolver.query("XXXX.com", "NS")
       for x in objetivo:
-        print(+)
+        print(x)
     except:
       print("***ERROR DETECTED*** No se puede obtener información")
 if __name__== '__main':
   try:
     main()
-  except KeyboardInterrupt
+  except KeyboardInterrupt:
     exit()
