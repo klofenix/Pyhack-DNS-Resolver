@@ -1,3 +1,5 @@
+![Supported Python versions](https://img.shields.io/badge/python->v3.0-blue.svg)
+
 # PyHack-DNS-Resolver
 
 ## (aun en fase de creación)
