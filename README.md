@@ -1,4 +1,4 @@
-#PyHack-DNS-Resolver
+# PyHack-DNS-Resolver
 !aun en fase de creación!
 
 - Utilidad creada en python para realizar analisis rapidos de DNS con fines de ser empleados en auditorias o pentesting.
