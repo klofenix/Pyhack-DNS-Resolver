@@ -7,7 +7,7 @@ def main():
         print("[+]"+ x)
     except:
       print("***ERROR DETECTED*** No se puede obtener información")
-if __name__== '__main':
+if __name__ == '__main__':
   try:
     main()
   except KeyboardInterrupt:
