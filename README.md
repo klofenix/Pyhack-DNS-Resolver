@@ -6,7 +6,7 @@
 - Para dar uso (de momento) modifica el archivo en la linea 5 el dominio a auditar XXXX.com.
 - Proximamente se incluira una interfaza grafica interactiva.
 
-<table summary="" id="" class="defaultstyle bx--data-table"><caption class="bx--data-table-header"><span class="tablecap bx--data-table-header__title">Tabla 2. Tipos de consulta DNS </span></caption><colgroup><col style="width:30.303030303030305%"><col style="width:69.6969696969697%"></colgroup><thead style="text-align:left;">
+<table summary="" id="" class="defaultstyle bx--data-table"><caption class="bx--data-table-header"><span class="tablecap bx--data-table-header__title">Tabla Tipos de consulta DNS </span></caption><colgroup><col style="width:30.303030303030305%"><col style="width:69.6969696969697%"></colgroup><thead style="text-align:left;">
 <tr>
 <th id="d154260e217"><div class="bx--table-header-label">Código de consulta </div></th>
 
